@@ -2,7 +2,7 @@
 Primera Clase clase de Arduino
 
 
-## Pin Led
+## Variables
 
-  pinMode(13, OUTPUT);   
+    pinMode(13, OUTPUT);
   
